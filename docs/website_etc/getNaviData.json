@@ -1,0 +1,775 @@
+{
+  "totalMsg": "<b id=\"lblAmount\">1898</b> 家客栈",
+  "hotelAmount": 1898,
+  "sortHeader": "<ul class=\"c_sort\"><li class=\"rt_r c_sort_btn J_priceInfo\" style=\"display: none\"><a class =\"selected\" href=\"javascript:void(0);\"  data-dopost=\"T\" data-type=\"priceInfo\" data-value=\"1\" title=\"计算返现、立减等优惠后的价格\"><span>返后价</span></a> </li><li class=\"rt_r c_sort_select J_priceInfo\" style=\"display: none\"><a class=\"\"  data-dopost=\"T\" data-type=\"priceInfo\" data-value=\"2\" href=\"javascript:void(0);\" title=\"未计算优惠前的价格\"><span>返前价</span></a></li><li class=\"r\" ><label class=\"base_label \" data-type=\"a\" data-value=\"6\" id=\"a-6\" data-dopost=\"T\"><input type=\"checkbox\" value=\"\" id=\"chkprepay\" />在线付</label></li><li class=\"r\" ><label class=\"base_label sta-disabled\"  data-type=\"a\" data-value=\"32\" id=\"a-32\" data-dopost=\"T\" data-disabled=\"T\" title=\"入住两天及以上，会有更多优惠等着您\"><input type=\"checkbox\" value=\"\" id=\"continous\" />连住优惠</label></li><li class=\"r\" ><label class=\"base_label \" data-type=\"a\" data-value=\"8\" id=\"a-8\" data-dopost=\"T\"><input name=\"\" id=\"chkCanReserve\" type=\"checkbox\" value=\"\" />可订</label></li><li class=\"r\" ><label title=\"仅查看可以立即确认订单的客栈。\" class=\"base_label \" data-type=\"a\" data-value=\"16\" id=\"a-16\" data-dopost=\"T\"><input id=\"chkJustConfirm\" type=\"checkbox\" />立即确认</label><div class=\"ico_new\"></div></li><li class=\"c_sort_select\"><a data-dopost=\"T\" href=\"javascript:;\" class=\"selected\" data-type=\"orderby\" data-value=\"0\" id=\"orderby-0\"><span>最受欢迎</span></a></li><li class=\"c_sort_btn\"><div id=\"sort_score\" class=\"type_right widget_button\"><a data-dopost=\"T\" href=\"javascript:;\" title=\"点击按评分从高到低排序\" data-type=\"orderby\" data-value=\"3\" id=\"orderby-3\" data-ordertype=\"1\"><b class=\"down\"> </b><span>评分</span></a></div></li><li class=\"c_sort_twoway\"><a title=\"点击按价格从低到高排序\"  data-dopost=\"T\" data-type=\"orderby\" data-value=\"1\" id=\"orderby-1\" data-ordertype=\"0\" href=\"javascript:;\"><span>价格</span><i class=\"\"></i></a></li></ul>",
+  "notice": "",
+  "hotelList": "<div class=\"searchresult_list\" id=\"420123\" data-index=\"1\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"420123\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江少府观景客栈\"  data-hotel=\"420123\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/420123.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江少府观景客栈\" src=\"//dimg12.c-ctrip.com/images/200h0n000000e3e5bBACD_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"420123\"><a href=\"/inn/420123.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江少府观景客栈\"><span class=\"hotel_num\">1</span>丽江少府观景客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江少府观景客栈按照纳西传统方式建筑，结合现代商务需要，是纳西文化与现代建筑的完美结合；客栈为层进式，房间典雅、光线敞亮；内设西餐厅、商铺、茶室等多处休闲场。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区新华街双石段70号，近酒吧街。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=420123;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=1;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=420123;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=1;rompos=;\"  title='大水车四方街酒店预订' onclick='window.bizMap(12077); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12077'>大水车四方街</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"420123\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=420123;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=1;rompos=;\">交通地图</a><a href=\"javascript:;\" class=\"link_street J_showPopStreet icon_list_map\" data-hotelId=\"420123\">周边街景</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>178</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/420123.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_1\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江少府观景客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/420123.html?isFull=F#J_commentContBox\"><strong>4.7</strong>/5分<span class=\"ui-value-all\">共4417条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=420123;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=1;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('420123', this,45,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_420123\"></div></div><div class=\"searchresult_list\" id=\"940017\" data-index=\"2\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"940017\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江阅古楼观景客栈\"  data-hotel=\"940017\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/940017.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江阅古楼观景客栈\" src=\"//dimg12.c-ctrip.com/images/200g0s000000hmqg0613E_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"940017\"><a href=\"/inn/940017.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江阅古楼观景客栈\"><span class=\"hotel_num\">2</span>丽江阅古楼观景客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江阅古楼观景客栈是一家度假型客栈，位于大研古镇，近狮子山公园。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区新华街翠文段34号，近四方街  近大水车  近木府。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=940017;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=2;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=940017;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=2;rompos=;\"  title='大水车四方街酒店预订' onclick='window.bizMap(12077); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12077'>大水车四方街</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"940017\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=940017;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=2;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>168</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/940017.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_2\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江阅古楼观景客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/940017.html?isFull=F#J_commentContBox\"><strong>4.7</strong>/5分<span class=\"ui-value-all\">共7325条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=940017;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=2;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('940017', this,24,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_940017\"></div></div><div class=\"searchresult_list\" id=\"1622913\" data-index=\"3\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"1622913\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江善水云间精品人文客栈\"  data-hotel=\"1622913\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/1622913.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江善水云间精品人文客栈\" src=\"//dimg11.c-ctrip.com/images/fd/hotel/g4/M04/36/08/CggYHVYdwlGAS9-DAATp3UyKepw748_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"1622913\"><a href=\"/inn/1622913.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江善水云间精品人文客栈\"><span class=\"hotel_num\">3</span>丽江善水云间精品人文客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江善水云间精品人文客栈座落在丽江市古城区五一街文生巷繁华地段，步行至四方街大水车只需10分钟，出行十分便利。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区五一街文林巷343号，近金虹路石油公司。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1622913;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=3;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"1622913\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=1622913;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=3;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>84</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/1622913.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_3\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江善水云间精品人文客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/1622913.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共12017条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=1622913;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=3;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('1622913', this,24,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_1622913\"></div></div><div class=\"searchresult_list\" id=\"2576684\" data-index=\"4\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"2576684\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江爱艾尚连锁客栈\"  data-hotel=\"2576684\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/2576684.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江爱艾尚连锁客栈\" src=\"//dimg11.c-ctrip.com/images/200q0m000000di5gpA6FA_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"2576684\"><a href=\"/inn/2576684.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江爱艾尚连锁客栈\"><span class=\"hotel_num\">4</span>丽江爱艾尚连锁客栈</a></h2><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区义尚街文华巷42.43号（近市一中正门），近丽江市第一高级中学正门。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=2576684;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=4;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"2576684\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=2576684;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=4;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>166</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/2576684.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_4\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江爱艾尚连锁客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/2576684.html?isFull=F#J_commentContBox\"><strong>4.8</strong>/5分<span class=\"ui-value-all\">共12241条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=2576684;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=4;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('2576684', this,28,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_2576684\"></div></div><div class=\"searchresult_list\" id=\"3654763\" data-index=\"5\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"3654763\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江听花堂私人花园客栈\"  data-hotel=\"3654763\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/3654763.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江听花堂私人花园客栈\" src=\"//dimg13.c-ctrip.com/images/200m0e00000071kqxE3EF_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"3654763\"><a href=\"/inn/3654763.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江听花堂私人花园客栈\"><span class=\"hotel_num\">5</span>丽江听花堂私人花园客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江听花堂私人花园客栈由名家设计，每个房间拥有不同的装修风格。院落布置以名贵花卉为主题，一年四季鲜花盛开。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区七一街兴文巷49号，近木府万子桥。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=3654763;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=5;rompos=;\" title='木府酒店预订' onclick='window.bizMap(12076); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12076'>木府</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=3654763;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=5;rompos=;\"  title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"3654763\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=3654763;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=5;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>368</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/3654763.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_5\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江听花堂私人花园客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/3654763.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共11592条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=3654763;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=5;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('3654763', this,29,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_3654763\"></div></div><div class=\"searchresult_list\" id=\"435971\" data-index=\"6\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"435971\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"古城原乡丽江客栈\"  data-hotel=\"435971\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/435971.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"古城原乡丽江客栈\" src=\"//dimg11.c-ctrip.com/images/fd/hotel/g4/M02/D7/B1/CggYHlbRbLyAIOESAAIEMC6njEw146_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"435971\"><a href=\"/inn/435971.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"古城原乡丽江客栈\"><span class=\"hotel_num\">6</span>古城原乡丽江客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>古城原乡客栈是巧妙的融合了纳西文化特色及现代时尚元素的精品客栈，庭院古朴幽雅，房间星级配置，闹中取静，出行便利，为每位游子提供最温馨舒适的服务。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区七一街兴文巷91号，近木府。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=435971;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=6;rompos=;\" title='木府酒店预订' onclick='window.bizMap(12076); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12076'>木府</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=435971;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=6;rompos=;\"  title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"435971\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=435971;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=6;rompos=;\">交通地图</a><a href=\"javascript:;\" class=\"link_street J_showPopStreet icon_list_map\" data-hotelId=\"435971\">周边街景</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\" 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>356</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/435971.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_6\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"古城原乡丽江客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/435971.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共362条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=435971;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=6;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('435971', this,29,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_435971\"></div></div><div class=\"searchresult_list\" id=\"3065922\" data-index=\"7\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"3065922\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江非悦观景客栈\"  data-hotel=\"3065922\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/3065922.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江非悦观景客栈\" src=\"//dimg10.c-ctrip.com/images/200i0u000000j1u1n980D_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"3065922\"><a href=\"/inn/3065922.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江非悦观景客栈\"><span class=\"hotel_num\">7</span>丽江非悦观景客栈</a></h2><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区大研新华街黄山上段1-9号，近四方街 大水车 万古楼。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=3065922;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=7;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=3065922;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=7;rompos=;\"  title='大水车四方街酒店预订' onclick='window.bizMap(12077); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12077'>大水车四方街</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"3065922\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=3065922;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=7;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>239</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/3065922.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_7\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江非悦观景客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/3065922.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共1154条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=3065922;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=7;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('3065922', this,15,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_3065922\"></div></div><div class=\"searchresult_list\" id=\"1980379\" data-index=\"8\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"1980379\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江雨林阑珊客栈（原亲爱的主题客栈）\"  data-hotel=\"1980379\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/1980379.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江雨林阑珊客栈（原亲爱的主题客栈）\" src=\"//dimg12.c-ctrip.com/images/200v0q000000gw535A3E1_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"1980379\"><a href=\"/inn/1980379.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江雨林阑珊客栈（原亲爱的主题客栈）\"><span class=\"hotel_num\">8</span>丽江雨林阑珊客栈（原亲爱的主题客栈）</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江亲爱的主题客栈是一家舒适的宾馆，临近四方街。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区义尚街文林巷349号，五一街。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1980379;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=8;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"1980379\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=1980379;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=8;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>159</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/1980379.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_8\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江雨林阑珊客栈（原亲爱的主题客栈）\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/1980379.html?isFull=F#J_commentContBox\"><strong>4.8</strong>/5分<span class=\"ui-value-all\">共1026条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=1980379;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=8;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('1980379', this,32,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_1980379\"></div></div><div class=\"searchresult_list\" id=\"1192624\" data-index=\"9\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"1192624\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"爱艾尚连锁客栈(丽江福缘店)\"  data-hotel=\"1192624\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/1192624.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"爱艾尚连锁客栈(丽江福缘店)\" src=\"//dimg13.c-ctrip.com/images/200w0n000000ejli45B81_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"1192624\"><a href=\"/inn/1192624.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"爱艾尚连锁客栈(丽江福缘店)\"><span class=\"hotel_num\">9</span>爱艾尚连锁客栈(丽江福缘店)</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>爱艾尚连锁客栈(丽江福缘店)位于义尚街文华巷43号，近丽江市一中。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区义尚街文华巷43号，近丽江市一中。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1192624;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=9;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"1192624\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=1192624;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=9;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>205</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/1192624.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_9\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"爱艾尚连锁客栈(丽江福缘店)\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/1192624.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共1696条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=1192624;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=9;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('1192624', this,16,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_1192624\"></div></div><div class=\"searchresult_list\" id=\"1698268\" data-index=\"10\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"1698268\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"百岁坊精品连锁客栈(丽江四方街店)\"  data-hotel=\"1698268\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/1698268.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"百岁坊精品连锁客栈(丽江四方街店)\" src=\"//dimg12.c-ctrip.com/images/20020p000000ftqhz1888_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"1698268\"><a href=\"/inn/1698268.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"百岁坊精品连锁客栈(丽江四方街店)\"><span class=\"hotel_num\">10</span>百岁坊精品连锁客栈(丽江四方街店)</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>高档精品连锁客栈，古管会认证纳西族重点保护民居，近古城门、四方街五一街、酒吧街及美食街。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区新义街百岁坊34号，临近四方街、木府、大水车。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1698268;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=10;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1698268;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=10;rompos=;\"  title='大水车四方街酒店预订' onclick='window.bizMap(12077); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12077'>大水车四方街</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"1698268\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=1698268;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=10;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>231</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/1698268.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_10\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"百岁坊精品连锁客栈(丽江四方街店)\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/1698268.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共2264条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=1698268;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=10;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('1698268', this,27,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_1698268\"></div></div><div class=\"searchresult_list\" id=\"1667695\" data-index=\"11\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"1667695\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江裕丰名邸尊享驿栈\"  data-hotel=\"1667695\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/1667695.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江裕丰名邸尊享驿栈\" src=\"//dimg10.c-ctrip.com/images/200k0m000000dr5uq3475_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"1667695\"><a href=\"/inn/1667695.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江裕丰名邸尊享驿栈\"><span class=\"hotel_num\">11</span>丽江裕丰名邸尊享驿栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江裕丰名邸尊享驿栈是一家精致舒适客栈，位于丽江大研古镇，近木府。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区古城南门街古佑巷134号，近古城南门。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1667695;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=11;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1667695;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=11;rompos=;\"  title='木府酒店预订' onclick='window.bizMap(12076); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12076'>木府</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"1667695\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=1667695;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=11;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>428</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/1667695.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_11\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江裕丰名邸尊享驿栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/1667695.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共3266条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=1667695;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=11;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('1667695', this,30,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_1667695\"></div></div><div class=\"searchresult_list\" id=\"4498738\" data-index=\"12\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"4498738\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江一朝一夕客栈\"  data-hotel=\"4498738\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/4498738.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江一朝一夕客栈\" src=\"//dimg13.c-ctrip.com/images/2009040000000981cCE8E_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"4498738\"><a href=\"/inn/4498738.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江一朝一夕客栈\"><span class=\"hotel_num\">12</span>丽江一朝一夕客栈</a></h2><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">文明村149号，近金安路。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=4498738;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=12;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"4498738\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=4498738;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=12;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>170</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/4498738.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_12\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江一朝一夕客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/4498738.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共89条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=4498738;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=12;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('4498738', this,3,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_4498738\"></div></div><div class=\"searchresult_list\" id=\"468665\" data-index=\"13\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"468665\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江九域乡村黄山客栈\"  data-hotel=\"468665\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/468665.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江九域乡村黄山客栈\" src=\"//dimg13.c-ctrip.com/images/200v0j000000asumsEF12_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"468665\"><a href=\"/inn/468665.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江九域乡村黄山客栈\"><span class=\"hotel_num\">13</span>丽江九域乡村黄山客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江九域乡村黄山客栈位于古城核心区域狮子山半山，距离标志性建筑万古楼只有3分钟路程，地理位置优越。客栈闹中取静，环境优雅，设施先进，建筑古朴，四季如春。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区新华街黄山上段24号，近四方街。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=468665;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=13;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=468665;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=13;rompos=;\"  title='狮子山万古楼酒店预订' onclick='window.bizMap(12078); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12078'>狮子山万古楼</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"468665\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=468665;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=13;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>72</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/468665.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_13\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江九域乡村黄山客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/468665.html?isFull=F#J_commentContBox\"><strong>3.3</strong>/5分<span class=\"ui-value-all\">共147条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=468665;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=13;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('468665', this,15,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_468665\"></div></div><div class=\"searchresult_list\" id=\"2304226\" data-index=\"14\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"2304226\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江束河小鱼客栈\"  data-hotel=\"2304226\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/2304226.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江束河小鱼客栈\" src=\"//dimg11.c-ctrip.com/images/200m0j0000009whzj71DD_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"2304226\"><a href=\"/inn/2304226.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江束河小鱼客栈\"><span class=\"hotel_num\">14</span>丽江束河小鱼客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江束河小鱼客栈位于束河古镇仁里路挑水巷26号，近九鼎龙潭和龙泉寺。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区束河古镇仁里路挑水巷26号，近四方街。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=2304226;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=14;rompos=;\" title='束河古镇酒店预订' onclick='window.bizMap(414); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone414'>束河古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"2304226\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=2304226;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=14;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>123</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/2304226.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_14\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江束河小鱼客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/2304226.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共305条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=2304226;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=14;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('2304226', this,19,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_2304226\"></div></div><div class=\"searchresult_list\" id=\"1674251\" data-index=\"15\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"1674251\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江花溪梅轩客栈\"  data-hotel=\"1674251\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/1674251.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江花溪梅轩客栈\" src=\"//dimg13.c-ctrip.com/images/200g0w000000kila6A544_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"1674251\"><a href=\"/inn/1674251.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江花溪梅轩客栈\"><span class=\"hotel_num\">15</span>丽江花溪梅轩客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江花溪梅轩客栈是一家豪华度假型客栈，位于五一街，临近文化巷。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_goldmedal\" title=\"携程紧密合作酒店，为携程会员提供专享优惠房价。\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">大研古城 五一街王家庄巷26号，近万子桥。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1674251;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=15;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"1674251\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=1674251;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=15;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi \" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>199</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/1674251.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_15\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江花溪梅轩客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/1674251.html?isFull=F#J_commentContBox\"><strong>4.8</strong>/5分<span class=\"ui-value-all\">共502条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=1674251;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=15;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('1674251', this,22,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_1674251\"></div></div><div class=\"searchresult_list\" id=\"2246536\" data-index=\"16\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"2246536\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江阅尚精品客栈\"  data-hotel=\"2246536\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/2246536.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江阅尚精品客栈\" src=\"//dimg12.c-ctrip.com/images/200m0r000000h63uu8E3F_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"2246536\"><a href=\"/inn/2246536.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江阅尚精品客栈\"><span class=\"hotel_num\">16</span>丽江阅尚精品客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江阅尚精品客栈是一家精品度假客栈，位于古城新华街黄山上段，临近狮子山。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区黄山上段35号，近万古楼-四方街。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=2246536;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=16;rompos=;\" title='狮子山万古楼酒店预订' onclick='window.bizMap(12078); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12078'>狮子山万古楼</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=2246536;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=16;rompos=;\"  title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"2246536\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=2246536;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=16;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>195</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/2246536.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_16\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江阅尚精品客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/2246536.html?isFull=F#J_commentContBox\"><strong>4.6</strong>/5分<span class=\"ui-value-all\">共1958条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=2246536;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=16;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('2246536', this,23,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_2246536\"></div></div><div class=\"searchresult_list\" id=\"1862244\" data-index=\"17\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"1862244\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"花语岸度假民宿(丽江风情店)\"  data-hotel=\"1862244\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/1862244.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"花语岸度假民宿(丽江风情店)\" src=\"//dimg12.c-ctrip.com/images/200p0q000000gla6jCFB8_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"1862244\"><a href=\"/inn/1862244.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"花语岸度假民宿(丽江风情店)\"><span class=\"hotel_num\">17</span>花语岸度假民宿(丽江风情店)</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>花语岸度假民宿(丽江风情店)位于方国瑜对面，步行约10分钟可至四方街，位置优越，出行便利。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区五一街文生巷111号，近四方街,北门。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1862244;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=17;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1862244;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=17;rompos=;\"  title='大水车四方街酒店预订' onclick='window.bizMap(12077); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12077'>大水车四方街</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"1862244\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=1862244;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=17;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>475</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/1862244.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_17\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"花语岸度假民宿(丽江风情店)\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/1862244.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共7654条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=1862244;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=17;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('1862244', this,38,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_1862244\"></div></div><div class=\"searchresult_list\" id=\"435992\" data-index=\"18\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"435992\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"安隐私人庭院(丽江佬树院店)\"  data-hotel=\"435992\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/435992.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"安隐私人庭院(丽江佬树院店)\" src=\"//dimg11.c-ctrip.com/images/200k0u000000j0stg7844_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"435992\"><a href=\"/inn/435992.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"安隐私人庭院(丽江佬树院店)\"><span class=\"hotel_num\">18</span>安隐私人庭院(丽江佬树院店)</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>安隐私人庭院(丽江佬树院店)是一家精品客栈，位于大研古镇，临近四方街。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区七一街八一下段111号，近四方街。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=435992;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=18;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"435992\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=435992;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=18;rompos=;\">交通地图</a><a href=\"javascript:;\" class=\"link_street J_showPopStreet icon_list_map\" data-hotelId=\"435992\">周边街景</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>229</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/435992.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_18\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"安隐私人庭院(丽江佬树院店)\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/435992.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共678条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=435992;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=18;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('435992', this,31,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_435992\"></div></div><div class=\"searchresult_list\" id=\"4359451\" data-index=\"19\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"4359451\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江秦时明月·锦官城客栈\"  data-hotel=\"4359451\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/4359451.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江秦时明月·锦官城客栈\" src=\"//dimg12.c-ctrip.com/images/fd/hotel/g4/M06/AD/64/CggYHVagU46AJT_mAAIsdfv6n5o092_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"4359451\"><a href=\"/inn/4359451.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江秦时明月·锦官城客栈\"><span class=\"hotel_num\">19</span>丽江秦时明月·锦官城客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江秦时明月·一贰HOUSE地处位于丽江古城景区内，近市一中。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区七一街八一下段208号（市一中前门附近）。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=4359451;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=19;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"4359451\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=4359451;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=19;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>159</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/4359451.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_19\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江秦时明月·锦官城客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/4359451.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共8776条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=4359451;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=19;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('4359451', this,24,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_4359451\"></div></div><div class=\"searchresult_list\" id=\"445678\" data-index=\"20\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"445678\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"真美度假连锁客栈(丽江和美观景店)\"  data-hotel=\"445678\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/445678.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"真美度假连锁客栈(丽江和美观景店)\" src=\"//dimg12.c-ctrip.com/images/2005060000001hj9u7715_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"445678\"><a href=\"/inn/445678.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"真美度假连锁客栈(丽江和美观景店)\"><span class=\"hotel_num\">20</span>真美度假连锁客栈(丽江和美观景店)</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>真美度假连锁客栈（丽江和美观景店）是一家度假型客栈，客栈位于大研古镇，临近四方街。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区七一街兴文巷38号，近四方街、木府。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=445678;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=20;rompos=;\" title='木府酒店预订' onclick='window.bizMap(12076); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12076'>木府</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=445678;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=20;rompos=;\"  title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"445678\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=445678;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=20;rompos=;\">交通地图</a><a href=\"javascript:;\" class=\"link_street J_showPopStreet icon_list_map\" data-hotelId=\"445678\">周边街景</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>259</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/445678.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_20\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"真美度假连锁客栈(丽江和美观景店)\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/445678.html?isFull=F#J_commentContBox\"><strong>4.8</strong>/5分<span class=\"ui-value-all\">共2639条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=445678;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=20;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('445678', this,48,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_445678\"></div></div><div class=\"searchresult_list\" id=\"853152\" data-index=\"21\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"853152\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江兰度精品客栈\"  data-hotel=\"853152\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/853152.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江兰度精品客栈\" src=\"//dimg12.c-ctrip.com/images/200q0l000000cwmirA09E_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"853152\"><a href=\"/inn/853152.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江兰度精品客栈\"><span class=\"hotel_num\">21</span>丽江兰度精品客栈</a></h2><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区大研古镇七一街八一下段226号（近南门），近祥和路。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=853152;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=21;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"853152\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=853152;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=21;rompos=;\">交通地图</a><a href=\"javascript:;\" class=\"link_street J_showPopStreet icon_list_map\" data-hotelId=\"853152\">周边街景</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>119</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/853152.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_21\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江兰度精品客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/853152.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共214条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=853152;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=21;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('853152', this,31,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_853152\"></div></div><div class=\"searchresult_list\" id=\"2624506\" data-index=\"22\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"2624506\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"瑷岸雨阁客栈(丽江听雨店)\"  data-hotel=\"2624506\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/2624506.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"瑷岸雨阁客栈(丽江听雨店)\" src=\"//dimg11.c-ctrip.com/images/fd/hotel/g3/M00/14/09/CggYG1XJrXOAKSJ2AAjreh3wHpI165_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"2624506\"><a href=\"/inn/2624506.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"瑷岸雨阁客栈(丽江听雨店)\"><span class=\"hotel_num\">22</span>瑷岸雨阁客栈(丽江听雨店)</a></h2><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区五一街文林巷，近四方街。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=2624506;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=22;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"2624506\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=2624506;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=22;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>125</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/2624506.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_22\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"瑷岸雨阁客栈(丽江听雨店)\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/2624506.html?isFull=F#J_commentContBox\"><strong>4.9</strong>/5分<span class=\"ui-value-all\">共364条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=2624506;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=22;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('2624506', this,12,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_2624506\"></div></div><div class=\"searchresult_list\" id=\"2036785\" data-index=\"23\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"2036785\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江鸿忆古客栈\"  data-hotel=\"2036785\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/2036785.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江鸿忆古客栈\" src=\"//dimg12.c-ctrip.com/images/fd/hotel/g3/M00/2E/99/CggYGVZW2zqAam2oAB6N61wK-ds690_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"2036785\"><a href=\"/inn/2036785.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江鸿忆古客栈\"><span class=\"hotel_num\">23</span>丽江鸿忆古客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>交通便利，到古城大水车步行仅五分钟。生活便利，周围各地美食汇聚。房间舒适整洁，服务体贴到位。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区七星二街东门口174号，近民主路。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=2036785;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=23;rompos=;\" title='丽江市区酒店预订' onclick='window.bizMap(461); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone461'>丽江市区</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"2036785\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=2036785;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=23;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>81</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/2036785.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_23\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江鸿忆古客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/2036785.html?isFull=F#J_commentContBox\"><strong>4.6</strong>/5分<span class=\"ui-value-all\">共641条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=2036785;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=23;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('2036785', this,25,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_2036785\"></div></div><div class=\"searchresult_list\" id=\"2130749\" data-index=\"24\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"2130749\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"真美度假连锁客栈(丽江狮山观景店)\"  data-hotel=\"2130749\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/2130749.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"真美度假连锁客栈(丽江狮山观景店)\" src=\"//dimg12.c-ctrip.com/images/200l0k000000cayt9023F_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"2130749\"><a href=\"/inn/2130749.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"真美度假连锁客栈(丽江狮山观景店)\"><span class=\"hotel_num\">24</span>真美度假连锁客栈(丽江狮山观景店)</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>真美度假连锁客栈（丽江狮山观景店）是一家精致的客栈，位于大研古镇，临近四方街。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"hotel_strategymedal\" title=\"携程战略合作酒店，拥有优质服务、优良品质及优惠房价，供携程会员专享预订\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区新华街黄山上段4号，近大水车四方街，万古楼旁新华小学隔壁。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=2130749;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=24;rompos=;\" title='狮子山万古楼酒店预订' onclick='window.bizMap(12078); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone12078'>狮子山万古楼</a> <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=2130749;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=24;rompos=;\"  title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"2130749\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=2130749;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=24;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\"公共区域免费wifi 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>236</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/2130749.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_24\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"真美度假连锁客栈(丽江狮山观景店)\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/2130749.html?isFull=F#J_commentContBox\"><strong>4.8</strong>/5分<span class=\"ui-value-all\">共3341条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=2130749;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=24;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('2130749', this,35,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_2130749\"></div></div><div class=\"searchresult_list\" id=\"1936502\" data-index=\"25\" data-page=\"1\" ><ul class=\"searchresult_info\"><li class=\"pic_medal\"><div class=\"hotel_pic\"  data-hotel=\"1936502\"  ><a title=\"上一张\" href=\"javascript:;\" class=\"btn_preview\" style=\"display:none\"><span><b class=\"ico_preview\"></b></span></a><a title=\"下一张\" href=\"javascript:;\" class=\"btn_next\" style=\"display:none\"><span><b class=\"ico_next\"></b></span></a><a title=\"丽江愿心缘客栈\"  data-hotel=\"1936502\"   data-dopost=\"T\" tracekey=\"nhtllistroomclick\"  href=\"/inn/1936502.html?isFull=F\" target=\"_blank\" class=\"hotel_abbrpic  haspic\"><img  alt=\"丽江愿心缘客栈\" src=\"//dimg12.c-ctrip.com/images/200s0e0000006yq2p169B_R_300_225.jpg\"  onerror=\"this.src='//pic.c-ctrip.com/hotels121118/inn_pic_no.png';this.onerror=null;\"></a></div></li><li class=\"searchresult_info_name\"><h2 class=\"searchresult_name\" data-id=\"1936502\"><a href=\"/inn/1936502.html?isFull=F\" data-dopost=\"T\"   tracekey=\"nhtllistroomclick\" tracevalue=\"\" target=\"_blank\" title=\"丽江愿心缘客栈\"><span class=\"hotel_num\">25</span>丽江愿心缘客栈</a></h2><span class=\"icon_desc_text\" data-params=\"{'options':{'type':'jmp_table','template':'$jmp_table','content':{'txt':'<div class=&quot;jmp_bd&quot;>丽江愿心缘客栈位于古城区南门街与七一街交叉路口，近四方街。</div>'},'classNames':{'boxType':'jmp_table'},'css':{'maxWidth':500},'group':'hotelDesc'}}\" data-role=\"jmp\"></span><span class=\"\" title=\"\" data-role=\"title\"></span><div class=\"ui-info\"><span class=\"searchresult_htladdress\">古城区丽江古城南门街宝屋巷84号，近四方街。 【 <a tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=zonename;hotelid=1936502;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=25;rompos=;\" title='大研古镇酒店预订' onclick='window.bizMap(462); return false;' href='//inn.ctrip.com/inn/Lijiang37/zone462'>大研古镇</a>】 </span><p class=\"range\"> </p><a href=\"javascript:;\" class=\"link_map J_showPopMap icon_list_map\" data-hotelId=\"1936502\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=htlmap;hotelid=1936502;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=25;rompos=;\">交通地图</a></div><div class=\"icon_list\"><span class=\"ico_wifi_free\" title=\" 客房有免费wifi\" data-role=\"title\"></span><span class=\"ico_airport_shuttle\" title=\"接机接站\" data-role=\"title\"></span><span class=\"ico_toilet\" title=\"独立卫生间\" data-role=\"title\"></span><span class=\"ico_hot_water\" title=\"24小时热水\" data-role=\"title\"></span></div></li><li class=\"hotel_price_icon\"><div class=\"hotel_price\"><dfn>&yen;</dfn><span>47</span>起<br></div><div class=\"original_price\"><span title=\"可礼品卡支付\" class=\"ticket_available\" data-role=\"title\">可礼品卡支付</span></div><a  class=\"btn-detail\" href=\"/inn/1936502.html?isFull=F\" data-dopost=\"T\" data-ctm=\"#ctm_ref=hod_sr_lst_def_n_25\" tracekey=\"nhtllistroomclick\"  target=\"_blank\" title=\"丽江愿心缘客栈\">查看详情</a></li><li class=\"hotel_favorite_info\"></li><li class=\"searchresult_info_judge\"><a   target=\"_blank\"  data-dopost=\"T\" class=\"hotel_value\" href=\"/inn/1936502.html?isFull=F#J_commentContBox\"><strong>4.6</strong>/5分<span class=\"ui-value-all\">共122条点评</span></a><p class=\"hotel_judgement\"></p></li><li style=\"\" class=\"hotel_room_detail\"> <a class=\"ui-link-more J_viewAllRoomType\" tracekey=\"nhtllistroomclick\" tracevalue=\"clicktype=showallroom;hotelid=1936502;roomid=;isdefaultdisplay=;defaultdisplaypos=;htlpos=25;rompos=;\" onclick=\"window.HotelRoom.onAllRoomLinkClick('1936502', this,25,'&lianzhu=F&RequestTravelMoney=F&promotion=F&prepay=F&IsCanReserve=F&IsJustConfirm=F&equip=&OrderBy=ctrip&OrderType=&startDate=2018-12-17&depDate=2018-12-18','#ctm_ref=hd_sr_lst_hi_r_a_1_1_df');\" href=\"javascript:;\" rel=\"nofollow\">查看全部房型<i></i></a><span class=\"float_right hidden\"> <img src=\"//pic.c-ctrip.com/common/loading.gif\" style=\"vertical-align: middle;\" /> 给力加载中，请稍候......</span></li></ul><div class=\"room_list2\" id=\"rl_1936502\"></div></div>",
+  "paging": "<div id=\"page_info\" class=\"c_page\"><a id=\"upHerf\" class=\"c_up_nocurrent\" data-value=\"\" href=\"javascript:;\" ></a><div class=\"c_page_list layoutfix\"><a href=\"javascript:;\" class=\"current\">1</a><a  data-dopost=\"T\" href=\"javascript:void(0);\" data-type=\"page\" data-value=\"2\">2</a><a  data-dopost=\"T\" href=\"javascript:void(0);\" data-type=\"page\" data-value=\"3\">3</a><a  data-dopost=\"T\" href=\"javascript:void(0);\" data-type=\"page\" data-value=\"4\">4</a><a  data-dopost=\"T\" href=\"javascript:void(0);\" data-type=\"page\" data-value=\"5\">5</a><a  data-dopost=\"T\" href=\"javascript:void(0);\" data-type=\"page\" data-value=\"6\">6</a><a  data-dopost=\"T\" href=\"javascript:void(0);\" data-type=\"page\" data-value=\"7\">7</a><span class=\"c_page_ellipsis\">...</span><a rel=\"nofollow\" data-dopost=\"T\" href=\"javascript:void(0);\" data-type=\"page\" data-value=\"76\">76</a></div><a id=\"downHerf\" class=\"c_down\" data-value=\"2\" href=\"javascript:void(0);\" data-dopost=\"T\">下一页</a><div class=\"c_pagevalue\">到<input class=\"c_page_num\" id=\"txtpage\" type=\"text\" value=\"1\"data-pagecount=76 name=\"\" />页<input class=\"c_page_submit\" type=\"button\" name=\"\" value=\"确定\" data-dopost=\"T\"/></div><input class=\"hidden\" id=\"submitbug\" type=\"text\" value=\"\" name=\"\" /></div>",
+  "hotelIds": "420123_1_1,940017_2_1,1622913_3_1,2576684_4_1,3654763_5_1,435971_6_1,3065922_7_1,1980379_8_1,1192624_9_1,1698268_10_1,1667695_11_1,4498738_12_1,468665_13_1,2304226_14_1,1674251_15_1,2246536_16_1,1862244_17_1,435992_18_1,4359451_19_1,445678_20_1,853152_21_1,2624506_22_1,2036785_23_1,2130749_24_1,1936502_25_1",
+  "filterHtml": {
+    "brand": "<label  data-dopost=\"T\"  data-type=\"group\" data-value=\"5\" id=\"group-5\" title=\"华住(汉庭)\"><input type=\"checkbox\"  value=\"\">华住(汉庭)</label><label  data-dopost=\"T\"  data-type=\"group\" data-value=\"291\" id=\"group-291\" title=\"锦江之星\"><input type=\"checkbox\"  value=\"\">锦江之星</label><label  data-dopost=\"T\"  data-type=\"group\" data-value=\"322\" id=\"group-322\" title=\"7天（铂涛）\"><input type=\"checkbox\"  value=\"\">7天（铂涛）</label><label  data-dopost=\"T\"  data-type=\"group\" data-value=\"263\" id=\"group-263\" title=\"维也纳\"><input type=\"checkbox\"  value=\"\">维也纳</label><label  data-dopost=\"T\"  data-type=\"group\" data-value=\"380\" id=\"group-380\" title=\"东呈国际集团\"><input type=\"checkbox\"  value=\"\">东呈国际集团</label><label  data-dopost=\"T\"  data-type=\"brand\" data-value=\"39\" id=\"brand-39\" title=\"速8\"><input type=\"checkbox\"  value=\"\">速8</label><label  data-dopost=\"T\"  data-type=\"group\" data-value=\"29\" id=\"group-29\" title=\"君澜\"><input type=\"checkbox\"  value=\"\">君澜</label><label  data-dopost=\"T\"  data-type=\"group\" data-value=\"284\" id=\"group-284\" title=\"悦榕庄\"><input type=\"checkbox\"  value=\"\">悦榕庄</label><label  data-dopost=\"T\"  data-type=\"group\" data-value=\"10\" id=\"group-10\" title=\"雅高\"><input type=\"checkbox\"  value=\"\">雅高</label>",
+    "moreBrand": "<table class=\"brand_item2_table\"><tbody><tr><td><p class=\"title\">快捷连锁</p><ul class=\"item_box\"><li><label  data-dopost=\"T\" data-value=\"5\" data-type=\"group\" id=\"group-5\" title=\"华住(汉庭)\"><input type=\"checkbox\" />华住(汉庭)</label></li><li><label  data-dopost=\"T\" data-value=\"291\" data-type=\"group\" id=\"group-291\" title=\"锦江之星\"><input type=\"checkbox\" />锦江之星</label></li><li><label  data-dopost=\"T\" data-value=\"322\" data-type=\"group\" id=\"group-322\" title=\"7天（铂涛）\"><input type=\"checkbox\" />7天（铂涛）</label></li><li><label  data-dopost=\"T\" data-value=\"263\" data-type=\"group\" id=\"group-263\" title=\"维也纳\"><input type=\"checkbox\" />维也纳</label></li><li><label  data-dopost=\"T\" data-value=\"380\" data-type=\"group\" id=\"group-380\" title=\"东呈国际集团\"><input type=\"checkbox\" />东呈国际集团</label></li><li><label  data-dopost=\"T\" data-value=\"39\" data-type=\"brand\" id=\"brand-39\" title=\"速8\"><input type=\"checkbox\" />速8</label></li></ul></td><td><p class=\"title\">高端连锁</p><ul class=\"item_box\"><li><label  data-dopost=\"T\" data-value=\"29\" data-type=\"group\" id=\"group-29\" title=\"君澜\"><input type=\"checkbox\" />君澜</label></li><li><label  data-dopost=\"T\" data-value=\"284\" data-type=\"group\" id=\"group-284\" title=\"悦榕庄\"><input type=\"checkbox\" />悦榕庄</label></li><li><label  data-dopost=\"T\" data-value=\"10\" data-type=\"group\" id=\"group-10\" title=\"雅高\"><input type=\"checkbox\" />雅高</label></li><li><label  data-dopost=\"T\" data-value=\"9\" data-type=\"group\" id=\"group-9\" title=\"希尔顿\"><input type=\"checkbox\" />希尔顿</label></li><li><label  data-dopost=\"T\" data-value=\"162\" data-type=\"group\" id=\"group-162\" title=\"温德姆\"><input type=\"checkbox\" />温德姆</label></li><li><label  data-dopost=\"T\" data-value=\"12\" data-type=\"group\" id=\"group-12\" title=\"凯悦\"><input type=\"checkbox\" />凯悦</label></li><li><label  data-dopost=\"T\" data-value=\"32\" data-type=\"group\" id=\"group-32\" title=\"洲际\"><input type=\"checkbox\" />洲际</label></li></ul></td><td><p class=\"title\">其他品牌</p><ul class=\"item_box\"><li><label  data-dopost=\"T\" data-value=\"1\" data-type=\"group\" id=\"group-1\" title=\"首旅如家\"><input type=\"checkbox\" />首旅如家</label></li><li><label  data-dopost=\"T\" data-value=\"329\" data-type=\"group\" id=\"group-329\" title=\"中青旅山水\"><input type=\"checkbox\" />中青旅山水</label></li><li><label  data-dopost=\"T\" data-value=\"414\" data-type=\"group\" id=\"group-414\" title=\"尚美\"><input type=\"checkbox\" />尚美</label></li><li><label  data-dopost=\"T\" data-value=\"333\" data-type=\"group\" id=\"group-333\" title=\"都市客栈\"><input type=\"checkbox\" />都市客栈</label></li></ul></td></tr></tbody></table>"
+  },
+  "landmarks": [],
+  "tuan": {
+    "mandatory": "T",
+    "url": "star=&city=37&startdate=2018-12-17&enddate=2018-12-18&zone=&location=0&pageindex=1"
+  },
+  "enabledFilter": {
+    "feature": ""
+  },
+  "hotelMapStreetJSON": {
+    "420123": {
+      "amap": {
+        "pos": "100.233256|26.874029",
+        "label": "少府观景",
+        "fullname": "丽江少府观景客栈"
+      },
+      "soso": {
+        "pano": "30061560130103144459800",
+        "zoom": 1,
+        "heading": 283,
+        "pitch": 0,
+        "pos": "100.233256|26.874029"
+      }
+    },
+    "435971": {
+      "amap": {
+        "pos": "100.235073|26.8699",
+        "label": "原乡丽江",
+        "fullname": "古城原乡丽江客栈"
+      },
+      "soso": {
+        "pano": "30061560130102131505400",
+        "zoom": 1,
+        "heading": 322,
+        "pitch": 0,
+        "pos": "100.235073|26.8699"
+      }
+    },
+    "435992": {
+      "amap": {
+        "pos": "100.24036|26.868876",
+        "label": "安隐",
+        "fullname": "安隐私人庭院(丽江佬树院店)"
+      },
+      "soso": {
+        "pano": "30061590130113133021000",
+        "zoom": 1,
+        "heading": 236,
+        "pitch": 0,
+        "pos": "100.24036|26.868876"
+      }
+    },
+    "445678": {
+      "amap": {
+        "pos": "100.237749|26.86931",
+        "label": "真美度假",
+        "fullname": "真美度假连锁客栈(丽江和美观景店)"
+      },
+      "soso": {
+        "pano": "30061560130102132006700",
+        "zoom": 1,
+        "heading": 326,
+        "pitch": 17,
+        "pos": "100.237749|26.86931"
+      }
+    },
+    "468665": {
+      "amap": {
+        "pos": "100.231579|26.872365",
+        "label": "九域乡村",
+        "fullname": "丽江九域乡村黄山客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.231579|26.872365"
+      }
+    },
+    "853152": {
+      "amap": {
+        "pos": "100.243265|26.867276",
+        "label": "兰度",
+        "fullname": "丽江兰度精品客栈"
+      },
+      "soso": {
+        "pano": "30061001120810152502100",
+        "zoom": 1,
+        "heading": 249,
+        "pitch": 0,
+        "pos": "100.243265|26.867276"
+      }
+    },
+    "940017": {
+      "amap": {
+        "pos": "100.232124|26.873024",
+        "label": "阅古楼",
+        "fullname": "丽江阅古楼观景客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.232124|26.873024"
+      }
+    },
+    "1192624": {
+      "amap": {
+        "pos": "100.244168|26.869537",
+        "label": "爱艾尚",
+        "fullname": "爱艾尚连锁客栈(丽江福缘店)"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.244168|26.869537"
+      }
+    },
+    "1622913": {
+      "amap": {
+        "pos": "100.24474|26.874126",
+        "label": "善水云间",
+        "fullname": "丽江善水云间精品人文客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.24474|26.874126"
+      }
+    },
+    "1667695": {
+      "amap": {
+        "pos": "100.242434|26.867037",
+        "label": "名邸尊享",
+        "fullname": "丽江裕丰名邸尊享驿栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.242434|26.867037"
+      }
+    },
+    "1674251": {
+      "amap": {
+        "pos": "100.238727|26.870535",
+        "label": "花溪梅轩",
+        "fullname": "丽江花溪梅轩客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.238727|26.870535"
+      }
+    },
+    "1698268": {
+      "amap": {
+        "pos": "100.235535|26.8721",
+        "label": "百岁坊",
+        "fullname": "百岁坊精品连锁客栈(丽江四方街店)"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.235535|26.8721"
+      }
+    },
+    "1862244": {
+      "amap": {
+        "pos": "100.240341|26.87278",
+        "label": "花语岸度假",
+        "fullname": "花语岸度假民宿(丽江风情店)"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.240341|26.87278"
+      }
+    },
+    "1936502": {
+      "amap": {
+        "pos": "100.241146087646|26.8680660547293",
+        "label": "愿心缘",
+        "fullname": "丽江愿心缘客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.241146087646|26.8680660547293"
+      }
+    },
+    "1980379": {
+      "amap": {
+        "pos": "100.24427|26.873019",
+        "label": "雨林阑珊",
+        "fullname": "丽江雨林阑珊客栈（原亲爱的主题客栈）"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.24427|26.873019"
+      }
+    },
+    "2036785": {
+      "amap": {
+        "pos": "100.228228|26.872608",
+        "label": "鸿憶古客栈",
+        "fullname": "丽江鸿忆古客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.228228|26.872608"
+      }
+    },
+    "2130749": {
+      "amap": {
+        "pos": "100.23127|26.871264",
+        "label": "真美度假",
+        "fullname": "真美度假连锁客栈(丽江狮山观景店)"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.23127|26.871264"
+      }
+    },
+    "2246536": {
+      "amap": {
+        "pos": "100.231449|26.871582",
+        "label": "阅尚精品",
+        "fullname": "丽江阅尚精品客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.231449|26.871582"
+      }
+    },
+    "2304226": {
+      "amap": {
+        "pos": "100.203939|26.922548",
+        "label": "束河小鱼",
+        "fullname": "丽江束河小鱼客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.203939|26.922548"
+      }
+    },
+    "2576684": {
+      "amap": {
+        "pos": "100.243493|26.869478",
+        "label": "爱艾尚",
+        "fullname": "丽江爱艾尚连锁客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.243493|26.869478"
+      }
+    },
+    "2624506": {
+      "amap": {
+        "pos": "100.244553|26.874431",
+        "label": "瑷岸雨阁",
+        "fullname": "瑷岸雨阁客栈(丽江听雨店)"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.244553|26.874431"
+      }
+    },
+    "3065922": {
+      "amap": {
+        "pos": "100.232735|26.87173",
+        "label": "非悦观景",
+        "fullname": "丽江非悦观景客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.232735|26.87173"
+      }
+    },
+    "3654763": {
+      "amap": {
+        "pos": "100.236572|26.869037",
+        "label": "听花堂",
+        "fullname": "丽江听花堂私人花园客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.236572|26.869037"
+      }
+    },
+    "4359451": {
+      "amap": {
+        "pos": "100.243752|26.869264",
+        "label": "秦时明月",
+        "fullname": "丽江秦时明月·锦官城客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.243752|26.869264"
+      }
+    },
+    "4498738": {
+      "amap": {
+        "pos": "100.245366|26.87247",
+        "label": "一朝一夕",
+        "fullname": "丽江一朝一夕客栈"
+      },
+      "soso": {
+        "pano": "",
+        "zoom": 1,
+        "heading": 20,
+        "pitch": 15,
+        "pos": "100.245366|26.87247"
+      }
+    }
+  },
+  "hotelPositionJSON": [
+    {
+      "id": "420123",
+      "name": "丽江少府观景客栈",
+      "lat": "26.874029",
+      "lon": "100.233256",
+      "url": "/inn/420123.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_1",
+      "img": "//images4.c-ctrip.com/target/200h0n000000e3e5bBACD_300_225.jpg",
+      "address": "古城区新华街双石段70号，近酒吧街。 （ 大研古镇大水车四方街）",
+      "score": "4.7",
+      "dpscore": "98",
+      "dpcount": "4417",
+      "star": "hotel_diamond03",
+      "stardesc": "舒适型（携程用户评定为3钻）",
+      "shortName": "少府观景",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "940017",
+      "name": "丽江阅古楼观景客栈",
+      "lat": "26.873024",
+      "lon": "100.232124",
+      "url": "/inn/940017.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_2",
+      "img": "//images4.c-ctrip.com/target/200g0s000000hmqg0613E_300_225.jpg",
+      "address": "古城区新华街翠文段34号，近四方街  近大水车  近木府。 （ 大研古镇大水车四方街）",
+      "score": "4.7",
+      "dpscore": "98",
+      "dpcount": "7325",
+      "star": "hotel_diamond03",
+      "stardesc": "舒适型（携程用户评定为3钻）",
+      "shortName": "阅古楼",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "1622913",
+      "name": "丽江善水云间精品人文客栈",
+      "lat": "26.874126",
+      "lon": "100.24474",
+      "url": "/inn/1622913.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_3",
+      "img": "//images4.c-ctrip.com/target/fd/hotel/g4/M04/36/08/CggYHVYdwlGAS9-DAATp3UyKepw748_300_225.jpg",
+      "address": "古城区五一街文林巷343号，近金虹路石油公司。 （ 大研古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "12017",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "善水云间",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "2576684",
+      "name": "丽江爱艾尚连锁客栈",
+      "lat": "26.869478",
+      "lon": "100.243493",
+      "url": "/inn/2576684.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_4",
+      "img": "//images4.c-ctrip.com/target/200q0m000000di5gpA6FA_300_225.jpg",
+      "address": "古城区义尚街文华巷42.43号（近市一中正门），近丽江市第一高级中学正门。 （ 大研古镇）",
+      "score": "4.8",
+      "dpscore": "100",
+      "dpcount": "12241",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "爱艾尚",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "3654763",
+      "name": "丽江听花堂私人花园客栈",
+      "lat": "26.869037",
+      "lon": "100.236572",
+      "url": "/inn/3654763.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_5",
+      "img": "//images4.c-ctrip.com/target/200m0e00000071kqxE3EF_300_225.jpg",
+      "address": "古城区七一街兴文巷49号，近木府万子桥。 （ 木府大研古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "11592",
+      "star": "hotel_halfdiamond05",
+      "stardesc": "高档型（携程用户评定为4.5钻）",
+      "shortName": "听花堂",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "435971",
+      "name": "古城原乡丽江客栈",
+      "lat": "26.8699",
+      "lon": "100.235073",
+      "url": "/inn/435971.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_6",
+      "img": "//images4.c-ctrip.com/target/fd/hotel/g4/M02/D7/B1/CggYHlbRbLyAIOESAAIEMC6njEw146_300_225.jpg",
+      "address": "古城区七一街兴文巷91号，近木府。 （ 木府大研古镇）",
+      "score": "4.9",
+      "dpscore": "99",
+      "dpcount": "362",
+      "star": "hotel_halfdiamond05",
+      "stardesc": "高档型（携程用户评定为4.5钻）",
+      "shortName": "原乡丽江",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "3065922",
+      "name": "丽江非悦观景客栈",
+      "lat": "26.87173",
+      "lon": "100.232735",
+      "url": "/inn/3065922.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_7",
+      "img": "//images4.c-ctrip.com/target/200i0u000000j1u1n980D_300_225.jpg",
+      "address": "古城区大研新华街黄山上段1-9号，近四方街 大水车 万古楼。 （ 大研古镇大水车四方街）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "1154",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "非悦观景",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "1980379",
+      "name": "丽江雨林阑珊客栈（原亲爱的主题客栈）",
+      "lat": "26.873019",
+      "lon": "100.24427",
+      "url": "/inn/1980379.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_8",
+      "img": "//images4.c-ctrip.com/target/200v0q000000gw535A3E1_300_225.jpg",
+      "address": "古城区义尚街文林巷349号，五一街。 （ 大研古镇）",
+      "score": "4.8",
+      "dpscore": "100",
+      "dpcount": "1026",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "雨林阑珊",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "1192624",
+      "name": "爱艾尚连锁客栈(丽江福缘店)",
+      "lat": "26.869537",
+      "lon": "100.244168",
+      "url": "/inn/1192624.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_9",
+      "img": "//images4.c-ctrip.com/target/200w0n000000ejli45B81_300_225.jpg",
+      "address": "古城区义尚街文华巷43号，近丽江市一中。 （ 大研古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "1696",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "爱艾尚",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "1698268",
+      "name": "百岁坊精品连锁客栈(丽江四方街店)",
+      "lat": "26.8721",
+      "lon": "100.235535",
+      "url": "/inn/1698268.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_10",
+      "img": "//images4.c-ctrip.com/target/20020p000000ftqhz1888_300_225.jpg",
+      "address": "古城区新义街百岁坊34号，临近四方街、木府、大水车。 （ 大研古镇大水车四方街）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "2264",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "百岁坊",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "1667695",
+      "name": "丽江裕丰名邸尊享驿栈",
+      "lat": "26.867037",
+      "lon": "100.242434",
+      "url": "/inn/1667695.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_11",
+      "img": "//images4.c-ctrip.com/target/200k0m000000dr5uq3475_300_225.jpg",
+      "address": "古城区古城南门街古佑巷134号，近古城南门。 （ 大研古镇木府）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "3266",
+      "star": "hotel_halfdiamond06",
+      "stardesc": "豪华型（携程用户评定为5.5钻）",
+      "shortName": "名邸尊享",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "4498738",
+      "name": "丽江一朝一夕客栈",
+      "lat": "26.87247",
+      "lon": "100.245366",
+      "url": "/inn/4498738.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_12",
+      "img": "//images4.c-ctrip.com/target/2009040000000981cCE8E_300_225.jpg",
+      "address": "文明村149号，近金安路。 （ 大研古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "89",
+      "star": "hotel_halfdiamond03",
+      "stardesc": "经济型（携程用户评定为2.5钻）",
+      "shortName": "一朝一夕",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "468665",
+      "name": "丽江九域乡村黄山客栈",
+      "lat": "26.872365",
+      "lon": "100.231579",
+      "url": "/inn/468665.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_13",
+      "img": "//images4.c-ctrip.com/target/200v0j000000asumsEF12_300_225.jpg",
+      "address": "古城区新华街黄山上段24号，近四方街。 （ 大研古镇狮子山万古楼）",
+      "score": "3.3",
+      "dpscore": "99",
+      "dpcount": "147",
+      "star": "hotel_halfdiamond02",
+      "stardesc": "经济型（携程用户评定为1.5钻）",
+      "shortName": "九域乡村",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "2304226",
+      "name": "丽江束河小鱼客栈",
+      "lat": "26.922548",
+      "lon": "100.203939",
+      "url": "/inn/2304226.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_14",
+      "img": "//images4.c-ctrip.com/target/200m0j0000009whzj71DD_300_225.jpg",
+      "address": "古城区束河古镇仁里路挑水巷26号，近四方街。 （ 束河古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "305",
+      "star": "hotel_halfdiamond03",
+      "stardesc": "经济型（携程用户评定为2.5钻）",
+      "shortName": "束河小鱼",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "1674251",
+      "name": "丽江花溪梅轩客栈",
+      "lat": "26.870535",
+      "lon": "100.238727",
+      "url": "/inn/1674251.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_15",
+      "img": "//images4.c-ctrip.com/target/200g0w000000kila6A544_300_225.jpg",
+      "address": "大研古城 五一街王家庄巷26号，近万子桥。 （ 大研古镇）",
+      "score": "4.8",
+      "dpscore": "99",
+      "dpcount": "502",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "花溪梅轩",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "2246536",
+      "name": "丽江阅尚精品客栈",
+      "lat": "26.871582",
+      "lon": "100.231449",
+      "url": "/inn/2246536.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_16",
+      "img": "//images4.c-ctrip.com/target/200m0r000000h63uu8E3F_300_225.jpg",
+      "address": "古城区黄山上段35号，近万古楼-四方街。 （ 狮子山万古楼大研古镇）",
+      "score": "4.6",
+      "dpscore": "98",
+      "dpcount": "1958",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "高档型（携程用户评定为3.5钻）",
+      "shortName": "阅尚精品",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "1862244",
+      "name": "花语岸度假民宿(丽江风情店)",
+      "lat": "26.87278",
+      "lon": "100.240341",
+      "url": "/inn/1862244.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_17",
+      "img": "//images4.c-ctrip.com/target/200p0q000000gla6jCFB8_300_225.jpg",
+      "address": "古城区五一街文生巷111号，近四方街,北门。 （ 大研古镇大水车四方街）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "7654",
+      "star": "hotel_halfdiamond06",
+      "stardesc": "豪华型（携程用户评定为5.5钻）",
+      "shortName": "花语岸度假",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "435992",
+      "name": "安隐私人庭院(丽江佬树院店)",
+      "lat": "26.868876",
+      "lon": "100.24036",
+      "url": "/inn/435992.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_18",
+      "img": "//images4.c-ctrip.com/target/200k0u000000j0stg7844_300_225.jpg",
+      "address": "古城区七一街八一下段111号，近四方街。 （ 大研古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "678",
+      "star": "hotel_halfdiamond05",
+      "stardesc": "高档型（携程用户评定为4.5钻）",
+      "shortName": "安隐",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "4359451",
+      "name": "丽江秦时明月·锦官城客栈",
+      "lat": "26.869264",
+      "lon": "100.243752",
+      "url": "/inn/4359451.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_19",
+      "img": "//images4.c-ctrip.com/target/fd/hotel/g4/M06/AD/64/CggYHVagU46AJT_mAAIsdfv6n5o092_300_225.jpg",
+      "address": "古城区七一街八一下段208号（市一中前门附近）。 （ 大研古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "8776",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "秦时明月",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "445678",
+      "name": "真美度假连锁客栈(丽江和美观景店)",
+      "lat": "26.86931",
+      "lon": "100.237749",
+      "url": "/inn/445678.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_20",
+      "img": "//images4.c-ctrip.com/target/2005060000001hj9u7715_300_225.jpg",
+      "address": "古城区七一街兴文巷38号，近四方街、木府。 （ 木府大研古镇）",
+      "score": "4.8",
+      "dpscore": "99",
+      "dpcount": "2639",
+      "star": "hotel_halfdiamond05",
+      "stardesc": "高档型（携程用户评定为4.5钻）",
+      "shortName": "真美度假",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "853152",
+      "name": "丽江兰度精品客栈",
+      "lat": "26.867276",
+      "lon": "100.243265",
+      "url": "/inn/853152.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_21",
+      "img": "//images4.c-ctrip.com/target/200q0l000000cwmirA09E_300_225.jpg",
+      "address": "古城区大研古镇七一街八一下段226号（近南门），近祥和路。 （ 大研古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "214",
+      "star": "hotel_halfdiamond04",
+      "stardesc": "舒适型（携程用户评定为3.5钻）",
+      "shortName": "兰度",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "2624506",
+      "name": "瑷岸雨阁客栈(丽江听雨店)",
+      "lat": "26.874431",
+      "lon": "100.244553",
+      "url": "/inn/2624506.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_22",
+      "img": "//images4.c-ctrip.com/target/fd/hotel/g3/M00/14/09/CggYG1XJrXOAKSJ2AAjreh3wHpI165_300_225.jpg",
+      "address": "古城区五一街文林巷，近四方街。 （ 大研古镇）",
+      "score": "4.9",
+      "dpscore": "100",
+      "dpcount": "364",
+      "star": "hotel_halfdiamond05",
+      "stardesc": "高档型（携程用户评定为4.5钻）",
+      "shortName": "瑷岸雨阁",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "2036785",
+      "name": "丽江鸿忆古客栈",
+      "lat": "26.872608",
+      "lon": "100.228228",
+      "url": "/inn/2036785.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_23",
+      "img": "//images4.c-ctrip.com/target/fd/hotel/g3/M00/2E/99/CggYGVZW2zqAam2oAB6N61wK-ds690_300_225.jpg",
+      "address": "古城区七星二街东门口174号，近民主路。 （ 丽江市区）",
+      "score": "4.6",
+      "dpscore": "98",
+      "dpcount": "641",
+      "star": "hotel_halfdiamond01",
+      "stardesc": "携程用户评定为0.5钻",
+      "shortName": "鸿憶古客栈",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "2130749",
+      "name": "真美度假连锁客栈(丽江狮山观景店)",
+      "lat": "26.871264",
+      "lon": "100.23127",
+      "url": "/inn/2130749.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_24",
+      "img": "//images4.c-ctrip.com/target/200l0k000000cayt9023F_300_225.jpg",
+      "address": "古城区新华街黄山上段4号，近大水车四方街，万古楼旁新华小学隔壁。 （ 狮子山万古楼大研古镇）",
+      "score": "4.8",
+      "dpscore": "99",
+      "dpcount": "3341",
+      "star": "hotel_halfdiamond05",
+      "stardesc": "高档型（携程用户评定为4.5钻）",
+      "shortName": "真美度假",
+      "isSingleRec": "false"
+    },
+    {
+      "id": "1936502",
+      "name": "丽江愿心缘客栈",
+      "lat": "26.8680660547293",
+      "lon": "100.241146087646",
+      "url": "/inn/1936502.html?isFull=F#ctm_ref=hod_sr_map_dl_txt_25",
+      "img": "//images4.c-ctrip.com/target/200s0e0000006yq2p169B_300_225.jpg",
+      "address": "古城区丽江古城南门街宝屋巷84号，近四方街。 （ 大研古镇）",
+      "score": "4.6",
+      "dpscore": "97",
+      "dpcount": "122",
+      "star": "hotel_diamond02",
+      "stardesc": "经济型（携程用户评定为2钻）",
+      "shortName": "愿心缘",
+      "isSingleRec": "false"
+    }
+  ]
+}

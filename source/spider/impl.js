@@ -13,7 +13,7 @@ const SysConf       = require('../config');
 const NAVI_PAGE_SIZE= 1000; // 导航页每页多少条数据
 
 exports.makeMacroTasks = async () => {
-    if (SysConf.SPIDER.test.enable) {
+    if (SysConf.SPIDER.test && SysConf.SPIDER.test.enable) {
         return [
             {name: '丽江', pinyin: 'lijiang', id: 37},
             {name: '郑州', pinyin: 'zhengzhou', id: 559},
